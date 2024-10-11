@@ -32,7 +32,6 @@ Make sure you have the following installed:
 - [**SQLite**](https://www.sqlite.org/index.html) (Database)
 - [**TypeORM**](https://typeorm.io/) (ORM for managing SQLite)
 - [**Swagger**](https://swagger.io/) (API Documentation)
-- [**Docker**](https://swagger.io/) (Docker and Docker-compose file)
 
 ---
 
